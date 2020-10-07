@@ -12,6 +12,6 @@ module.exports = (app, lando) => {
     config: {
       mySetting: true,
       domain: 'mydomain.com',
-    };
+    },
   };
 };
